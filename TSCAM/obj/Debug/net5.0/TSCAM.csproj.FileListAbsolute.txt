@@ -1,0 +1,12 @@
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\bin\Debug\net5.0\TSCAM.deps.json
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\bin\Debug\net5.0\TSCAM.dll
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\bin\Debug\net5.0\ref\TSCAM.dll
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\bin\Debug\net5.0\TSCAM.pdb
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\TSCAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\TSCAM.AssemblyInfoInputs.cache
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\TSCAM.AssemblyInfo.cs
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\TSCAM.csproj.CoreCompileInputs.cache
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\TSCAM.dll
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\ref\TSCAM.dll
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\TSCAM.pdb
+C:\Users\VJ AK\OneDrive\Desktop\Time Secure\TimeSecure\TSCAM\obj\Debug\net5.0\TSCAM.csprojAssemblyReference.cache
